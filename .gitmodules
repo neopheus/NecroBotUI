@@ -1,0 +1,3 @@
+[submodule "NecroBot"]
+	path = NecroBot
+	url = https://github.com/NECROBOTIO/NecroBot.git
